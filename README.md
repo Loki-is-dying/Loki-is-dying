@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F76D57&width=435&lines=Hi+there!+I'm+Luqmaan+Slarmie;Software+Engineer+%7C+Kung+Fu+Athlete)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F76D57&width=435&lines=Hi+there!+I'm+Luqmaan+Slarmie;Aspiring+Software+Engineer+%7C+Kung+Fu+Athlete)](https://git.io/typing-svg)
 
 <h1 align="center">Hi 👋, I'm Luqmaan Slamie</h1>
 <h3 align="center">Software Engineering Student | Kung Fu Athlete</h3>
