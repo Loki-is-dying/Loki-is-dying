@@ -9,6 +9,12 @@
 - 🥋 Captain of the South African Youth Kung Fu Team — led the team to become Southern Africa Youth Champions in 2025.  
 - 💡 I love solving problems, building things, and learning deeply.
 
+- ## 🧭 Career Interests
+- **Seeking:** Internship / graduate roles in **Backend** or **Cloud** (2026 intake).
+- **Focus areas:** Distributed systems, APIs, data & databases, and performance optimization.
+- **Value add:** Strong discipline and teamwork from national-level sport; fast learner with a bias to shipping.
+
+
 ## 🛠️ Tech Stack
 **Languages:** JavaScript, Java, Python, C#  
 **Frameworks & Tools:** React, Express, MongoDB, .NET, PostgreSQL, Git  
