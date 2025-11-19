@@ -18,7 +18,7 @@
 ## 🛠️ Tech Stack
 **Languages:** JavaScript, Java, Python, C#,C++, python  
 **Frameworks & Tools:** React, Express, MongoDB, .NET, PostgreSQL, Git  
-**Special Interests:** Cloud Computing ☁️, Machine Learning 🤖, Databases 🗄️, Robotics 🤖   
+**Special Interests:** Software Development, Cloud Computing ☁️, Machine Learning 🤖, Databases 🗄️, Robotics 🤖  
 
 ##
 
