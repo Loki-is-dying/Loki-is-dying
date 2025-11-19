@@ -12,13 +12,13 @@
 - ## 🧭 Career Interests
 - **Seeking:** Internship / graduate roles in **Backend** or **Cloud** (2026 intake).
 - **Focus areas:** Distributed systems, APIs, data & databases, and performance optimization.
-- **Value add:** Strong discipline and teamwork from national-level sport; fast learner with a bias to shipping.
+- **Value add:** Strong discipline and teamwork from national-level sport; fast and easily adapatable learner
 
 
 ## 🛠️ Tech Stack
-**Languages:** JavaScript, Java, Python, C#  
+**Languages:** JavaScript, Java, Python, C#,C++, python  
 **Frameworks & Tools:** React, Express, MongoDB, .NET, PostgreSQL, Git  
-**Special Interests:** Cloud Computing ☁️, Machine Learning 🤖, Databases 🗄️  
+**Special Interests:** Cloud Computing ☁️, Machine Learning 🤖, Databases 🗄️, Robotics 🤖   
 
 ##
 
@@ -46,7 +46,6 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Loki-is-dying&show_icons=true&theme=radical&hide_border=true" alt="stats" height="165"/>
-  <img src="https://streak-stats.demolab.com?user=Loki-is-dying&theme=radical&hide_border=true" alt="streak" height="165"/>
 </p>
 
 <p align="center">
