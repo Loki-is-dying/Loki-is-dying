@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F76D57&width=435&lines=Hi+there!+I'm+Luqmaan+Slarmie;Aspiring+Software+Engineer+%7C+Kung+Fu+Athlete)](https://git.io/typing-svg)
 
-<h1 align="center">Hi 👋, I'm Luqmaan Slamie</h1>
+<h1 align="center">Hi 👋, I'm Luqmaan Slarmie</h1>
 <h3 align="center">Software Engineering Student | Kung Fu Athlete</h3>
 
 ## 🌟 About Me  
@@ -16,7 +16,7 @@
 
 
 ## 🛠️ Tech Stack
-**Languages:** JavaScript, Java, Python, C#,C++, python  
+**Languages:** JavaScript, Java, Python, C#, C++.   
 **Frameworks & Tools:** React, Express, MongoDB, .NET, PostgreSQL, Git  
 **Special Interests:** Software Development, Cloud Computing ☁️, Machine Learning 🤖, Databases 🗄️, Robotics 🤖  
 
@@ -42,14 +42,22 @@
 - 🔗 [Linear & Integer Programming Solver (.NET + C#)](https://github.com/AdrianGriesel/LPR381ProjectGS2.git)
 - 🔗 [Community Portal Website (Express + MongoDB)](https://github.com/CharlSmuts/WPR381_Project.git)
 
-## 📊 GitHub Stats  
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Loki-is-dying&show_icons=true&theme=radical&hide_border=true" alt="stats" height="165"/>
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Loki-is-dying&show_icons=true&theme=radical&hide_border=true&cache_seconds=86400"
+    alt="Luqmaan's GitHub Stats"
+    height="165"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Loki-is-dying&layout=compact&theme=radical&hide_border=true" alt="top langs" height="130"/>
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Loki-is-dying&layout=compact&theme=radical&hide_border=true&cache_seconds=86400"
+    alt="Luqmaan's Top Languages"
+    height="130"
+  />
 </p>
 
 ##  🏆 Highlights
