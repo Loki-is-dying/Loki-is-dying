@@ -45,19 +45,11 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=Loki-is-dying&show_icons=true&theme=radical&hide_border=true&cache_seconds=86400"
-    alt="Luqmaan's GitHub Stats"
-    height="165"
-  />
+  <img src="./profile/stats.svg" alt="Luqmaan's GitHub Stats" height="165"/>
 </p>
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Loki-is-dying&layout=compact&theme=radical&hide_border=true&cache_seconds=86400"
-    alt="Luqmaan's Top Languages"
-    height="130"
-  />
+  <img src="./profile/top-langs.svg" alt="Luqmaan's Top Languages" height="130"/>
 </p>
 
 ##  🏆 Highlights
